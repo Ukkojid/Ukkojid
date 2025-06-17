@@ -6,21 +6,32 @@ I’m passionate about coding, learning new technologies, and building useful to
 ---
 
 ## 🧑‍💻 About Me
-- 🔭 Currently working on **Flutter apps** & learning advanced **Android development**.
-- 🤖 Exploring **system-level Android features** (like Power Button Replacement using native Android).
-- 🛠️ Love creating tools that solve real problems.
-- 🌱 Constantly learning & improving.
+
+- 🎓 I’m currently a **3rd year Computer Engineering student**.
+- 💻 Learning **Full Stack Web Development** — recently started exploring **backend development**.
+- 🤩 Passionate about learning all kinds of programming languages — as an engineer, I believe there’s no limit to what we can learn!
+- 🔍 Always curious and eager to explore new technologies and tools.
+- 🚀 On a journey to become a versatile **Full Stack Developer**.
+
 
 ---
 
 ## 🛠️ Tech Stack & Tools
 
-
+![ReactJS](https://img.shields.io/badge/-ReactJS-61DAFB?logo=react&logoColor=black&style=flat)
+![NodeJS](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white&style=flat)
+![ExpressJS](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=flat)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white&style=flat)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white&style=flat)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat)
+![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white&style=flat)
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
+![DSA](https://img.shields.io/badge/-DSA-blue?style=flat)
 
 ---
 
@@ -41,8 +52,10 @@ I’m passionate about coding, learning new technologies, and building useful to
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/)  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?logo=githubpages&logoColor=white&style=flat)](https://yourportfolio.com) *(replace with your link)*
+[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat)](mailto:ukkojid@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat)]([https://www.linkedin.com/in/your-linkedin-username](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile))
+<!-- [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?logo=githubpages&logoColor=white&style=flat)](https://your-portfolio-link.com) -->
+
 
 ---
 

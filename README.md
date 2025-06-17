@@ -53,7 +53,7 @@ I’m passionate about coding, learning new technologies, and building useful to
 ## 🌐 Connect With Me
 
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat)](mailto:ukkojid@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat)]([https://www.linkedin.com/in/your-linkedin-username](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/deepak-ukkoji)
 <!-- [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?logo=githubpages&logoColor=white&style=flat)](https://your-portfolio-link.com) -->
 
 
